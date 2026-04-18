@@ -1,7 +1,6 @@
-
 <div align="center">
 
-<img width="1504" height="704" alt="Gemini_Generated_Image_ys9qgcys9qgcys9q" src="https://github.com/user-attachments/assets/374deb34-9f72-4e7b-9303-9dfc399cdf8a" />
+<img width="1504" height="704" alt="AOT Banner" src="https://github.com/user-attachments/assets/374deb34-9f72-4e7b-9303-9dfc399cdf8a" />
 
 <br/>
 
@@ -253,4 +252,7 @@
   <br>
   <b>SHINZOU WO SASAGEYO!</b>
 </p>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=omarnagi74&color=00fff7&style=flat-square&label=SCOUTS+VISITED)
+
 </div>
