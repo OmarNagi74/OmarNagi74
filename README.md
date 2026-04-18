@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a0a2e,70:0a1628,100:0a0a0a&height=250&section=header&text=OMAR%20NAGI%20ELZHARI&fontSize=45&fontColor=00fff7&animation=twinkling&fontAlignY=40&desc=⚔️%20Survey%20Corps%20%7C%20Android%20Dev%20%7C%20Problem%20Solver%20%7C%20Future%20SWE%20⚔️&descAlignY=62&descSize=15&descColor=b388ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,20:7928ca,40:00d4ff,60:ff6ec7,80:ffcc00,100:00fff7&height=280&section=header&text=OMAR%20NAGI%20ELZHARI&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&stroke=ffffff&strokeWidth=1&desc=⚔️%20Survey%20Corps%20%7C%20Android%20Dev%20%7C%20Problem%20Solver%20%7C%20Future%20SWE%20⚔️&descAlignY=62&descSize=16&descColor=ffffff" />
 
 <br/>
 
@@ -249,6 +249,6 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=omarnagi74&color=00fff7&style=flat-square&label=SCOUTS+VISITED)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a0a2e,100:0a0a0a&height=140&section=footer&text=Dedicate%20Your%20Heart%20⚔️&fontSize=24&fontColor=00fff7&animation=twinkling&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff7,20:ffcc00,40:ff6ec7,60:7928ca,80:ff0080,100:00d4ff&height=160&section=footer&text=Dedicate%20Your%20Heart%20⚔️&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=65&stroke=ffffff&strokeWidth=1" />
 
 </div>
