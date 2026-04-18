@@ -1,254 +1,53 @@
-<img width="680" height="320" alt="banner" src="https://private-user-images.githubusercontent.com/242790058/580369552-a9943332-3504-40de-b34e-dddcc265321f.svg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY1NDkxOTUsIm5iZiI6MTc3NjU0ODg5NSwicGF0aCI6Ii8yNDI3OTAwNTgvNTgwMzY5NTUyLWE5OTQzMzMyLTM1MDQtNDBkZS1iMzRlLWRkZGNjMjY1MzIxZi5zdmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQxOFQyMTQ4MTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNTI5ZTFhNzA2OTlmNjlkNjE4ZTc0OGI4YjAwZTFjOWJjY2E3MTczYjZjN2JlY2NlMTc1YzhlZTU5YjljZGE2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZzdmclMkJ4bWwifQ.te9WDppxEBnME_1PZJ7n_05Z_RXbYqR4JndGBLlVs8s" />
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Android+Developer;Flutter+Enthusiast;Codeforces+Solver+(Nagi_14);Aspiring+Software+Engineer" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=00FFF7&center=true&vCenter=true&width=750&lines=⚔️+%22If+you+win%2C+you+live.+If+you+lose%2C+you+die.%22;💻+Android+Developer+%7C+Flutter+Enthusiast;🧩+Codeforces+Problem+Solver+%7C+handle%3A+Nagi_14;🚀+Aspiring+Software+Engineer+%7C+Cairo%2C+Egypt;🔭+Ktor+Backend+Explorer+%7C+Building+Scentra+🌸)](https://git.io/typing-svg)
-
-<br/>
-
-![](https://img.shields.io/badge/STATUS-ACTIVE%20DUTY-00fff7?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/REGIMENT-SURVEY%20CORPS-8B0000?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/BASE-CAIRO%20🇪🇬-b388ff?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/MISSION-WALLS%20OF%20CODE-ff6ec7?style=flat-square&labelColor=0a0a0a)
+<img src="https://img.shields.io/badge/Location-Cairo%20🇪🇬-222831?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-00ADB5?style=for-the-badge" />
 
 </div>
 
 ---
 
-## ⚔️ SOLDIER DOSSIER — CLASSIFIED
+## 👨‍💻 About Me
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║        🦅  SURVEY CORPS — SOLDIER PROFILE  🦅                   ║
-║              "Dedicate Your Heart"                               ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║   SOLDIER ID   : OMAR-NAGI-74                                    ║
-║   FULL NAME    : Omar Nagi Elzhari                               ║
-║   ORIGIN       : Cairo, Egypt 🇪🇬                                ║
-║   REGIMENT     : Survey Corps — Engineering Division             ║
-║   RANK         : Scout → Corporal (leveling up...)               ║
-║                                                                  ║
-╠══════════════════════════════════════════════════════════════════╣
-║   WEAPONS OF CHOICE                                              ║
-║   ⚔️  Primary   : Java · Dart · Kotlin                           ║
-║   🗡️  Secondary : C++ (for the Titans aka hard problems)         ║
-║   🛡️  Arsenal   : Flutter · Android SDK · Ktor · Firebase        ║
-╠══════════════════════════════════════════════════════════════════╣
-║   ACTIVE MISSION                                                 ║
-║   🌸  Scentra — Perfume E-Commerce App (Flutter)                 ║
-║                                                                  ║
-║   ULTIMATE GOAL                                                  ║
-║   🎯  Break through the walls → become a Software Engineer       ║
-╠══════════════════════════════════════════════════════════════════╣
-║   SOLDIER'S OATH                                                 ║
-║   "Every problem has a solution.                                 ║
-║    Find it. Code it. Ship it.                                    ║
-║    Even if I must do it alone." — Omar Nagi                      ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+- 🎯 Android Developer & Flutter Enthusiast  
+- 🧠 Solving problems on Codeforces *(handle: Nagi_14)*  
+- 🚀 Currently exploring Backend with Ktor  
+- 📍 Based in Cairo, Egypt  
 
 ---
 
-## 📊 COMBAT STATS — SKILL TREE
+## ⚙️ Tech Stack
 
-```
- ╔═══════════════════════════════════════════════════════╗
- ║              ⚔️  SKILL LEVEL BOARD  ⚔️                ║
- ╠═══════════════════════════════════════════════════════╣
- ║  Android Dev    [██████████████████░░]  90%  ★★★★☆  ║
- ║  Flutter        [████████████████░░░░]  80%  ★★★★☆  ║
- ║  Java           [██████████████████░░]  90%  ★★★★☆  ║
- ║  Kotlin         [██████████████░░░░░░]  70%  ★★★☆☆  ║
- ║  Algorithms     [████████████████░░░░]  80%  ★★★★☆  ║
- ║  Data Struct    [███████████████░░░░░]  75%  ★★★☆☆  ║
- ║  Ktor Backend   [████████████░░░░░░░░]  60%  ★★★☆☆  ║
- ║  System Design  [████████░░░░░░░░░░░░]  40%  ★★☆☆☆  ║
- ║                                    GRINDING... ⚔️    ║
- ╚═══════════════════════════════════════════════════════╝
-```
+**Languages:**  
+`Java` `Kotlin` `Dart` `C++`
+
+**Frameworks & Tools:**  
+`Flutter` `Android SDK` `Ktor` `Firebase`
 
 ---
 
-## 🏆 ACHIEVEMENTS UNLOCKED
-
-```diff
-+ [ACHIEVEMENT] 🥇  Built Scentra — a full Flutter E-Commerce app
-+ [ACHIEVEMENT] 🧩  Active Codeforces solver — handle: Nagi_14
-+ [ACHIEVEMENT] 📱  Shipped multiple Android apps in Java & Kotlin
-+ [ACHIEVEMENT] 🔭  Explored Ktor for backend development
-+ [ACHIEVEMENT] 🛡️  Mastered Android SDK fundamentals
-! [IN PROGRESS] 🚀  Targeting Software Engineering role
-! [IN PROGRESS] 📖  Deep diving into System Design
-! [IN PROGRESS] ⚔️  Codeforces rating 1400+ incoming...
-```
-
----
-
-## ❤️ BEYOND THE WALLS — PERSONAL
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  Like Levi, I operate with precision and zero tolerance      │
-│  for messy code. Like Eren, I push beyond limits.           │
-│                                                             │
-│  ❤️  PASSIONS                                               │
-│     🎮  Gaming — strategy & RPG games                       │
-│     📺  Anime — AOT is life, no debate                      │
-│     🧩  Competitive programming — it's my ODM gear          │
-│     📱  Building apps that feel alive                        │
-│                                                             │
-│  🧠  HOW I THINK                                            │
-│     → Break every problem into sub-problems (like titans)   │
-│     → Research first, code second, ship always              │
-│     → Clean architecture > fast & messy                     │
-│     → If it compiles on first try — I don't trust it        │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📈 EXPEDITION LOG — LEARNING JOURNEY
-
-```
-  2022 ──┤ 🔰 First line of Java written. The wall cracked.
-         │
-  2023 ──┤ ⚔️  Android SDK mastered. First app shipped.
-         │   Flutter discovered. Dart added to arsenal.
-         │
-  2024 ──┤ 🌸 Scentra born — Flutter e-commerce app.
-         │   Codeforces journey started. Nagi_14 online.
-         │   Kotlin & Ktor backend exploration begins.
-         │
-  2025 ──┤ 🚀 System Design. Open Source. SWE Role.
-         │   The final wall must fall. ⚔️
-         ▼
-       [ONGOING — STORY NOT FINISHED]
-```
-
----
-
-## 🧩 TITAN SLAYING — COMPETITIVE PROGRAMMING
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Nagi__14-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Nagi_14)
-
-</div>
-
-```
-  TITANS SLAIN (PROBLEMS SOLVED):
-
-  Div. 4  [████████████████████]  100%  ✅ CLEARED
-  Div. 3  [████████████████░░░░]   80%  ⚔️ ACTIVE
-  Div. 2  [████████░░░░░░░░░░░░]   40%  🔥 GRINDING
-  Div. 1  [██░░░░░░░░░░░░░░░░░░]   10%  👀 ONE DAY...
-```
-
----
-
-## ⚙️ TECH STACK — EQUIPMENT LOADOUT
-
-### 〔 MOBILE — PRIMARY WEAPONS 〕
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=00fff7)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=00fff7)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=0a0a0a)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=0a0a0a)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff)
-
-### 〔 BACKEND — SUPPORT GEAR 〕
-![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=for-the-badge&logo=kotlin&logoColor=fff)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=0a0a0a)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-
-### 〔 BASE CAMP — DEV ENVIRONMENT 〕
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=0a0a0a)
-![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=00fff7)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=b388ff)
-
----
-
-## 🌸 MISSION FILE — SCENTRA
-
-<div align="center">
-
-> *⚔️ The most dangerous mission yet — building a luxury perfume e-commerce app with Flutter*
-
-</div>
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│  MISSION: SCENTRA 🌸                          STATUS: ACTIVE  │
-├──────────────────────────────────────────────────────────────┤
-│  🛒  Full catalog · smart cart · wishlist system             │
-│  🔍  Search & filter by fragrance family & notes             │
-│  💳  Smooth multi-step checkout flow                         │
-│  🔔  Real-time Firebase push notifications                   │
-│  🎨  Luxury UI — inspired by high-end fragrance brands       │
-├──────────────────────────────────────────────────────────────┤
-│  DANGER LEVEL:  [████████████████████]  EXTREME 🔥           │
-│  COMPLETION:    [████████████████░░░░]  80% — ALMOST THERE   │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📊 EXPEDITION RECORDS — GITHUB STATS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarnagi74&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&title_color=00fff7&icon_color=b388ff&text_color=ffffff&bg_color=0a0a0a" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarnagi74&layout=compact&theme=midnight-purple&hide_border=true&title_color=00fff7&text_color=ffffff&bg_color=0a0a0a" />
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=omarnagi74&theme=midnight-purple&hide_border=true&background=0a0a0a&ring=00fff7&fire=ff6ec7&currStreakLabel=b388ff)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="150"/>
 
 </div>
 
 ---
 
-## 🎯 OPERATION 2025 — MISSION BOARD
+## 🔥 Current Mission
 
-```diff
-+ [ ] ⚔️  Dedicate heart → land a Software Engineering role
-+ [ ] 📦  Deploy Scentra to Play Store
-+ [ ] 🧩  Crush Codeforces rating 1400+
-+ [ ] 🔧  Build production-grade Ktor backend
-+ [ ] 📖  Master System Design — crack the walls
-+ [ ] 🌍  Contribute to Open Source projects
-```
+> Building **Scentra 🌸**  
+> Improving problem solving & backend skills  
 
 ---
 
-## 📡 SIGNAL TOWER — CONNECT
+## 📫 Connect
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--nagi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-nagi-263bss/)
-[![Gmail](https://img.shields.io/badge/Gmail-omarnagi424-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarnagi424@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-omarnagi74-181717?style=for-the-badge&logo=github&logoColor=00fff7)](https://github.com/omarnagi74)
-[![Codeforces](https://img.shields.io/badge/CF-Nagi__14-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Nagi_14)
-
-</div>
-
----
-
-<div align="center">
-
-```
-⚔️  "If you win, you live. If you lose, you die.
-     If you don't fight, you can't win." — Eren Yeager
-
-      ...so I keep coding. Every single day. ⚔️
-```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=omarnagi74&color=00fff7&style=flat-square&label=SCOUTS+VISITED)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff7,20:ffcc00,40:ff6ec7,60:7928ca,80:ff0080,100:00d4ff&height=160&section=footer&text=Dedicate%20Your%20Heart%20⚔️&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=65&stroke=ffffff&strokeWidth=1" />
-
-</div>
+- Codeforces: https://codeforces.com/profile/Nagi_14
