@@ -248,8 +248,9 @@
       ...so I keep coding. Every single day. ⚔️
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=omarnagi74&color=00fff7&style=flat-square&label=SCOUTS+VISITED)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff7,20:ffcc00,40:ff6ec7,60:7928ca,80:ff0080,100:00d4ff&height=160&section=footer&text=Dedicate%20Your%20Heart%20⚔️&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=65&stroke=ffffff&strokeWidth=1" />
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/msharratt1/msharratt1/master/scout-regiment.gif" width="100px" />
+  <br>
+  <b>SHINZOU WO SASAGEYO!</b>
+</p>
 </div>
