@@ -1,5 +1,3 @@
-<img width="680" height="320" alt="banner" src="https://github.com/user-attachments/assets/e2147440-8769-43c7-9831-2e1d18b0a357" />
-<img width="680" height="320" alt="banner" src="https://github.com/user-attachments/assets/dc3f6efe-5f2a-4264-9635-c3177aa84cb7" />
 <div align="center">
 
 <img src="banner.svg" width="100%" />
@@ -254,3 +252,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff7,20:ffcc00,40:ff6ec7,60:7928ca,80:ff0080,100:00d4ff&height=160&section=footer&text=Dedicate%20Your%20Heart%20⚔️&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=65&stroke=ffffff&strokeWidth=1" />
 
 </div>
+<img width="680" height="320" alt="banner" src="https://github.com/user-attachments/assets/94033ce3-00dd-435d-8d3e-e48920dd5861" />
