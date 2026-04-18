@@ -1,53 +1,73 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Android+Developer;Flutter+Enthusiast;Codeforces+Solver+(Nagi_14);Aspiring+Software+Engineer" />
+<img width="100%" src="https://private-user-images.githubusercontent.com/242790058/580369552-a9943332-3504-40de-b34e-dddcc265321f.svg?jwt=..." alt="banner" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Location-Cairo%20🇪🇬-222831?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-00ADB5?style=for-the-badge" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00FFF7&center=true&vCenter=true&width=800&lines=⚔️+If+you+win%2C+you+live.+If+you+lose%2C+you+die.;💻+Android+Developer+%7C+Flutter+Enthusiast;🧩+Codeforces+Problem+Solver+%7C+Nagi_14;🚀+Aspiring+Software+Engineer+%7C+Cairo%2C+Egypt;🔭+Building+Scentra+with+Ktor+Backend+🌸)](https://git.io/typing-svg)
+
+<br/>
+
+[![Status](https://img.shields.io/badge/STATUS-ACTIVE%20DUTY-00fff7?style=for-the-badge&labelColor=0a0a0a)](https://github.com/Omar-Nagi-74)
+[![Regiment](https://img.shields.io/badge/REGIMENT-SURVEY%20CORPS-8B0000?style=for-the-badge&labelColor=0a0a0a)](https://github.com/Omar-Nagi-74)
+[![Base](https://img.shields.io/badge/BASE-CAIRO%20🇪🇬-b388ff?style=for-the-badge&labelColor=0a0a0a)](https://github.com/Omar-Nagi-74)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ⚔️ SOLDIER DOSSIER — CLASSIFIED
 
-- 🎯 Android Developer & Flutter Enthusiast  
-- 🧠 Solving problems on Codeforces *(handle: Nagi_14)*  
-- 🚀 Currently exploring Backend with Ktor  
-- 📍 Based in Cairo, Egypt  
+<table align="center" width="100%">
+  <tr>
+    <td width="50%">
+      <h3>📊 Tactical Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Omar-Nagi-74&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00fff7&text_color=ffffff" width="100%" />
+    </td>
+    <td width="50%">
+      <h3>🧬 Programming DNA</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Nagi-74&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=ff6ec7&text_color=ffffff" width="100%" />
+    </td>
+  </tr>
+</table>
 
----
-
-## ⚙️ Tech Stack
-
-**Languages:**  
-`Java` `Kotlin` `Dart` `C++`
-
-**Frameworks & Tools:**  
-`Flutter` `Android SDK` `Ktor` `Firebase`
-
----
-
-## 📊 GitHub Stats
+### 🛠 Weapons of Choice (Tech Stack)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="150"/>
+| Category | Arsenal |
+| :--- | :--- |
+| **Languages** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
+| **Mobile** | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) |
+| **Backend** | ![Ktor](https://img.shields.io/badge/Ktor-000000?style=flat&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) |
 
 </div>
 
 ---
 
-## 🔥 Current Mission
+### 🧩 Titan Slaying (Competitive Programming)
 
-> Building **Scentra 🌸**  
-> Improving problem solving & backend skills  
+> **"To defeat a monster, you must be willing to throw aside your humanity."**
+> — *Armin Arlert*
+
+* **Codeforces Handle:** [`Nagi_14`](https://codeforces.com/profile/Nagi_14)
+* **Specialty:** Data Structures & Algorithms with C++
+* **Current Mission:** Mastering Graph Theory & Dynamic Programming.
 
 ---
 
-## 📫 Connect
+### 📬 Signal Flares (Contact Me)
 
-- Codeforces: https://codeforces.com/profile/Nagi_14
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-nagi/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/msharratt1/msharratt1/master/scout-regiment.gif" width="100px" />
+  <br>
+  <b>SHINZOU WO SASAGEYO!</b>
+</p>
