@@ -1,7 +1,6 @@
-<img width="680" height="320" alt="banner" src="https://github.com/user-attachments/assets/a9943332-3504-40de-b34e-dddcc265321f" />
+<img width="680" height="320" alt="banner" src="https://private-user-images.githubusercontent.com/242790058/580369552-a9943332-3504-40de-b34e-dddcc265321f.svg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY1NDkxOTUsIm5iZiI6MTc3NjU0ODg5NSwicGF0aCI6Ii8yNDI3OTAwNTgvNTgwMzY5NTUyLWE5OTQzMzMyLTM1MDQtNDBkZS1iMzRlLWRkZGNjMjY1MzIxZi5zdmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQxOFQyMTQ4MTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNTI5ZTFhNzA2OTlmNjlkNjE4ZTc0OGI4YjAwZTFjOWJjY2E3MTczYjZjN2JlY2NlMTc1YzhlZTU5YjljZGE2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZzdmclMkJ4bWwifQ.te9WDppxEBnME_1PZJ7n_05Z_RXbYqR4JndGBLlVs8s" />
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/omarnagi74/omarnagi74/main/banner.svg" width="100%" />
 
 <br/>
 
