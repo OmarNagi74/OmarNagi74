@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,20:7928ca,40:00d4ff,60:ff6ec7,80:ffcc00,100:00fff7&height=280&section=header&text=OMAR%20NAGI%20ELZHARI&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&stroke=ffffff&strokeWidth=1&desc=⚔️%20Survey%20Corps%20%7C%20Android%20Dev%20%7C%20Problem%20Solver%20%7C%20Future%20SWE%20⚔️&descAlignY=62&descSize=16&descColor=ffffff" />
+<img src="banner.svg" width="100%" />
 
 <br/>
 
