@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1504" height="704" alt="AOT Banner" src="https://github.com/user-attachments/assets/374deb34-9f72-4e7b-9303-9dfc399cdf8a" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Omar%20Nagi&fontSize=80&fontColor=00FFF7&animation=fadeIn&fontAlignY=40&desc=⚔️%20Survey%20Corps%20—%20Engineering%20Division%20⚔️&descAlignY=65&descAlign=50&descFontColor=b388ff&descFontSize=22" width="100%" />
 
 <br/>
 
