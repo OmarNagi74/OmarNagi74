@@ -166,7 +166,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarnagi74&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&title_color=00fff7&icon_color=b388ff&text_color=ffffff&bg_color=0a0a0a&include_all_commits=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarnagi74&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&title_color=00fff7&icon_color=b388ff&text_color=ffffff&bg_color=0a0a0a&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarnagi74&layout=compact&theme=midnight-purple&hide_border=true&title_color=00fff7&text_color=ffffff&bg_color=0a0a0a&langs_count=8" />
 
 <br/>
