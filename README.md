@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00FFF7&center=true&vCenter=true&width=800&lines=⚔️+%22If+you+win%2C+you+live.+If+you+lose%2C+you+die.%22;💻+Android+Developer+%7C+Flutter+Enthusiast;🧩+Codeforces+Problem+Solver+%7C+handle%3A+Nagi_14;🚀+Aspiring+Software+Engineer+%7C+Cairo%2C+Egypt;🔭+Ktor+Backend+Explorer+%7C+Building+Scentra+🌸;⚔️+Survey+Corps+—+Engineering+Division)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00FFF7&center=true&vCenter=true&width=800&lines=⚔️+%22If+you+win%2C+you+live.+If+you+lose%2C+you+die.%22;💻+Android+Developer+%7C;🧩+Codeforces+Problem+Solver+%7C+handle%3A+Nagi_14;🚀+Aspiring+Software+Engineer+%7C+Cairo%2C+Egypt;🔭+Ktor+Backend+Explorer+%7C+Building+Scentra+🌸;⚔️+Survey+Corps+—+Engineering+Division)](https://git.io/typing-svg)
 
 <br/>
 
@@ -217,25 +217,6 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📡 SIGNAL TOWER — CONNECT
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/omar-nagi-263bss/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-omar--nagi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:omarnagi424@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-omarnagi424-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://github.com/omarnagi74" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-omarnagi74-181717?style=for-the-badge&logo=github&logoColor=00fff7" alt="GitHub"/>
-</a>
-<a href="https://codeforces.com/profile/Nagi_14" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-Nagi__14-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-</a>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
