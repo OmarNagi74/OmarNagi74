@@ -4,9 +4,9 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00FFF7&center=true&vCenter=true&width=800&lines=⚔️+%22If+you+win%2C+you+live.+If+you+lose%2C+you+die.%22;💻+Android+Developer+%7C;🧩+Codeforces+Problem+Solver+%7C+handle%3A+Nagi_14;🚀+Aspiring+Software+Engineer+%7C+Cairo%2C+Egypt;🔭+Ktor+Backend+Explorer;⚔️+Survey+Corps+—+Engineering+Division)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00FFF7&center=true&vCenter=true&width=800&lines=⚔️+%22If+you+win%2C+you+live.+If+you+lose%2C+you+die.%22;💻+Android+Developer+%7C+Flutter+Engineer;🧩+Codeforces+Solver+%7C+handle%3A+Nagi_14;🚀+Aspiring+Software+Engineer+%7C+Cairo%2C+Egypt;🔭+Ktor+Backend+Explorer+%7C+Firebase+Enthusiast;⚔️+Survey+Corps+—+Engineering+Division;🌸+Building+Scentra+—+Perfume+E-Commerce+App)](https://git.io/typing-svg)
 
-
+<br/>
 
 <!-- Social Profile Icons -->
 <a href="https://www.linkedin.com/in/omar-nagi-263bss/" target="_blank">
@@ -21,6 +21,10 @@
 <a href="mailto:omarnagi424@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+
+<br/><br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=omarnagi74&color=00fff7&style=for-the-badge&label=SCOUTS+VISITED)
 
 </div>
 
@@ -66,9 +70,10 @@
 
 ### 🔥 CURRENTLY LOCKING IN
 
-![System Design](https://img.shields.io/badge/System_Design-GRINDING-ff6ec7?style=for-the-badge&labelColor=0a0a0a)
-![Open Source](https://img.shields.io/badge/Open_Source-INCOMING-00fff7?style=for-the-badge&labelColor=0a0a0a)
-![Codeforces_1400](https://img.shields.io/badge/CF_Rating-1400%2B_TARGET-b388ff?style=for-the-badge&labelColor=0a0a0a)
+![System Design](https://img.shields.io/badge/System_Design-GRINDING-ff6ec7?style=for-the-badge&labelColor=0a0a0a&logo=bookstack&logoColor=ff6ec7)
+![Open Source](https://img.shields.io/badge/Open_Source-INCOMING-00fff7?style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=00fff7)
+![Codeforces_1400](https://img.shields.io/badge/CF_Rating-1400%2B_TARGET-b388ff?style=for-the-badge&labelColor=0a0a0a&logo=codeforces&logoColor=b388ff)
+![Scentra](https://img.shields.io/badge/Scentra_App-IN_DEV-ffbd2e?style=for-the-badge&labelColor=0a0a0a&logo=flutter&logoColor=ffbd2e)
 
 </div>
 
@@ -161,20 +166,20 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarnagi74&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&title_color=00fff7&icon_color=b388ff&text_color=ffffff&bg_color=0a0a0a" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarnagi74&layout=compact&theme=midnight-purple&hide_border=true&title_color=00fff7&text_color=ffffff&bg_color=0a0a0a" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarnagi74&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&title_color=00fff7&icon_color=b388ff&text_color=ffffff&bg_color=0a0a0a&include_all_commits=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarnagi74&layout=compact&theme=midnight-purple&hide_border=true&title_color=00fff7&text_color=ffffff&bg_color=0a0a0a&langs_count=8" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=omarnagi74&theme=midnight-purple&hide_border=true&background=0a0a0a&ring=00fff7&fire=ff6ec7&currStreakLabel=b388ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=omarnagi74&theme=midnight-purple&hide_border=true&background=0a0a0a&ring=00fff7&fire=ff6ec7&currStreakLabel=b388ff&dates=ffffff&sideLabels=b388ff&sideNums=00fff7)](https://git.io/streak-stats)
 
 <br/>
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=omarnagi74&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=omarnagi74&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omarnagi74&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=00fff7&line=b388ff&point=ff6ec7&area=true&area_color=b388ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omarnagi74&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=00fff7&line=b388ff&point=ff6ec7&area=true&area_color=b388ff&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -211,8 +216,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <div align="center">
 
 > ⚔️ *"If you win, you live. If you lose, you die.*
@@ -229,7 +232,5 @@
 **⚔️ SHINZOU WO SASAGEYO! ⚔️**
 
 <br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=omarnagi74&color=00fff7&style=for-the-badge&label=SCOUTS+VISITED)
 
 </div>
