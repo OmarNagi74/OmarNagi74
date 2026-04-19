@@ -4,18 +4,18 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=00FFF7&center=true&vCenter=true&width=750&lines=⚔️+%22If+you+win%2C+you+live.+If+you+lose%2C+you+die.%22;💻+Android+Developer+%7C+Flutter+Enthusiast;🧩+Codeforces+Problem+Solver+%7C+handle%3A+Nagi_14;🚀+Aspiring+Software+Engineer+%7C+Cairo%2C+Egypt;🔭+Ktor+Backend+Explorer+%7C+Building+Scentra+🌸)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00FFF7&center=true&vCenter=true&width=800&lines=⚔️+%22If+you+win%2C+you+live.+If+you+lose%2C+you+die.%22;💻+Android+Developer+%7C+Flutter+Enthusiast;🧩+Codeforces+Problem+Solver+%7C+handle%3A+Nagi_14;🚀+Aspiring+Software+Engineer+%7C+Cairo%2C+Egypt;🔭+Ktor+Backend+Explorer+%7C+Building+Scentra+🌸;⚔️+Survey+Corps+—+Engineering+Division)](https://git.io/typing-svg)
 
 <br/>
 
-![](https://img.shields.io/badge/STATUS-ACTIVE%20DUTY-00fff7?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/REGIMENT-SURVEY%20CORPS-8B0000?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/BASE-CAIRO%20🇪🇬-b388ff?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/MISSION-WALLS%20OF%20CODE-ff6ec7?style=flat-square&labelColor=0a0a0a)
+![](https://img.shields.io/badge/STATUS-ACTIVE%20DUTY-00fff7?style=for-the-badge&labelColor=0a0a0a)
+![](https://img.shields.io/badge/REGIMENT-SURVEY%20CORPS-8B0000?style=for-the-badge&labelColor=0a0a0a)
+![](https://img.shields.io/badge/BASE-CAIRO%20🇪🇬-b388ff?style=for-the-badge&labelColor=0a0a0a)
+![](https://img.shields.io/badge/MISSION-WALLS%20OF%20CODE-ff6ec7?style=for-the-badge&labelColor=0a0a0a)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## ⚔️ SOLDIER DOSSIER — CLASSIFIED
 
@@ -50,7 +50,7 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 COMBAT STATS — SKILL TREE
 
@@ -70,7 +70,17 @@
  ╚═══════════════════════════════════════════════════════╝
 ```
 
----
+<div align="center">
+
+### 🔥 CURRENTLY LOCKING IN
+
+![System Design](https://img.shields.io/badge/System_Design-GRINDING-ff6ec7?style=for-the-badge&labelColor=0a0a0a)
+![Open Source](https://img.shields.io/badge/Open_Source-INCOMING-00fff7?style=for-the-badge&labelColor=0a0a0a)
+![Codeforces_1400](https://img.shields.io/badge/CF_Rating-1400%2B_TARGET-b388ff?style=for-the-badge&labelColor=0a0a0a)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 ACHIEVEMENTS UNLOCKED
 
@@ -85,7 +95,7 @@
 ! [IN PROGRESS] ⚔️  Codeforces rating 1400+ incoming...
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## ❤️ BEYOND THE WALLS — PERSONAL
 
@@ -108,7 +118,7 @@
 └─────────────────────────────────────────────────────────────┘
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📈 EXPEDITION LOG — LEARNING JOURNEY
 
@@ -128,7 +138,7 @@
        [ONGOING — STORY NOT FINISHED]
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧩 TITAN SLAYING — COMPETITIVE PROGRAMMING
 
@@ -147,11 +157,14 @@
   Div. 1  [██░░░░░░░░░░░░░░░░░░]   10%  👀 ONE DAY...
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## ⚙️ TECH STACK — EQUIPMENT LOADOUT
 
+<div align="center">
+
 ### 〔 MOBILE — PRIMARY WEAPONS 〕
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=00fff7)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=00fff7)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=0a0a0a)
@@ -159,6 +172,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff)
 
 ### 〔 BACKEND — SUPPORT GEAR 〕
+
 ![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=for-the-badge&logo=kotlin&logoColor=fff)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=0a0a0a)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
@@ -166,11 +180,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 
 ### 〔 BASE CAMP — DEV ENVIRONMENT 〕
+
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=0a0a0a)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=00fff7)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=b388ff)
 
----
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌸 MISSION FILE — SCENTRA
 
@@ -195,7 +212,7 @@
 └──────────────────────────────────────────────────────────────┘
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 EXPEDITION RECORDS — GITHUB STATS
 
@@ -208,9 +225,31 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=omarnagi74&theme=midnight-purple&hide_border=true&background=0a0a0a&ring=00fff7&fire=ff6ec7&currStreakLabel=b388ff)](https://git.io/streak-stats)
 
+<br/>
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=omarnagi74&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omarnagi74&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=00fff7&line=b388ff&point=ff6ec7&area=true&area_color=b388ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🐍 CONTRIBUTION SERPENT — THE SNAKE EATS MY COMMITS
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmarNagi74/OmarNagi74/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmarNagi74/OmarNagi74/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/OmarNagi74/OmarNagi74/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎯 OPERATION 2025 — MISSION BOARD
 
@@ -223,7 +262,7 @@
 + [ ] 🌍  Contribute to Open Source projects
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📡 SIGNAL TOWER — CONNECT
 
@@ -236,7 +275,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
@@ -248,11 +287,13 @@
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/msharratt1/msharratt1/master/scout-regiment.gif" width="100px" />
-  <br>
-  <b>SHINZOU WO SASAGEYO!</b>
+  <img src="https://raw.githubusercontent.com/msharratt1/msharratt1/master/scout-regiment.gif" width="120px" />
+  <br/>
+  <b>⚔️ SHINZOU WO SASAGEYO! ⚔️</b>
 </p>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=omarnagi74&color=00fff7&style=flat-square&label=SCOUTS+VISITED)
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=omarnagi74&color=00fff7&style=for-the-badge&label=SCOUTS+VISITED)
 
 </div>
