@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="assets/shingeki_no_coder_final.html">
-  <img width="860" height="420" alt="Shingeki No Coder — Animated Banner" src="assets/banner.svg" />
-</a>
+[![⚔️ SHINGEKI NO CODER — ANIMATED BANNER ⚔️](https://img.shields.io/badge/⚔️_SHINGEKI_NO_CODER-ANIMATED_BANNER_%E2%9A%94%EF%B8%8F-8B0000?style=for-the-badge&labelColor=03070f)](assets/shingeki_no_coder_final.html)
 
 <br/>
 
