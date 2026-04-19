@@ -1,6 +1,6 @@
 <div align="center">
 
-[![⚔️ SHINGEKI NO CODER — ANIMATED BANNER ⚔️](https://img.shields.io/badge/⚔️_SHINGEKI_NO_CODER-ANIMATED_BANNER_%E2%9A%94%EF%B8%8F-8B0000?style=for-the-badge&labelColor=03070f)](assets/shingeki_no_coder_final.html)
+![⚔️ SHINGEKI NO CODER — ANIMATED BANNER ⚔️](assets/banner.svg)
 
 <br/>
 
