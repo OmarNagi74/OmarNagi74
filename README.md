@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="860" height="420" alt="Shingeki No Coder — Animated Banner" src="assets/banner.svg" />
+<a href="assets/shingeki_no_coder_final.html">
+  <img width="860" height="420" alt="Shingeki No Coder — Animated Banner" src="assets/banner.svg" />
+</a>
 
 <br/>
 
@@ -120,25 +122,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 EXPEDITION LOG — LEARNING JOURNEY
-
-```
-  2022 ──┤ 🔰 First line of Java written. The wall cracked.
-         │
-  2023 ──┤ ⚔️  Android SDK mastered. First app shipped.
-         │   Flutter discovered. Dart added to arsenal.
-         │
-  2024 ──┤ 🌸 Scentra born — Flutter e-commerce app.
-         │   Codeforces journey started. Nagi_14 online.
-         │   Kotlin & Ktor backend exploration begins.
-         │
-  2025 ──┤ 🚀 System Design. Open Source. SWE Role.
-         │   The final wall must fall. ⚔️
-         ▼
-       [ONGOING — STORY NOT FINISHED]
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧩 TITAN SLAYING — COMPETITIVE PROGRAMMING
 
@@ -189,30 +172,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🌸 MISSION FILE — SCENTRA
-
-<div align="center">
-
-> *⚔️ The most dangerous mission yet — building a luxury perfume e-commerce app with Flutter*
-
-</div>
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│  MISSION: SCENTRA 🌸                          STATUS: ACTIVE  │
-├──────────────────────────────────────────────────────────────┤
-│  🛒  Full catalog · smart cart · wishlist system             │
-│  🔍  Search & filter by fragrance family & notes             │
-│  💳  Smooth multi-step checkout flow                         │
-│  🔔  Real-time Firebase push notifications                   │
-│  🎨  Luxury UI — inspired by high-end fragrance brands       │
-├──────────────────────────────────────────────────────────────┤
-│  DANGER LEVEL:  [████████████████████]  EXTREME 🔥           │
-│  COMPLETION:    [████████████████░░░░]  80% — ALMOST THERE   │
-└──────────────────────────────────────────────────────────────┘
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 EXPEDITION RECORDS — GITHUB STATS
 
