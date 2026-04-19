@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00FFF7&center=true&vCenter=true&width=800&lines=⚔️+%22If+you+win%2C+you+live.+If+you+lose%2C+you+die.%22;💻+Android+Developer+%7C+Flutter+Engineer;🧩+Codeforces+Solver+%7C+handle%3A+Nagi_14;🚀+Aspiring+Software+Engineer+%7C+Cairo%2C+Egypt;🔭+Ktor+Backend+Explorer+%7C+Firebase+Enthusiast;⚔️+Survey+Corps+—+Engineering+Division;🌸+Building+Scentra+—+Perfume+E-Commerce+App)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00FFF7&center=true&vCenter=true&width=800&lines=⚔️+%22If+you+win%2C+you+live.+If+you+lose%2C+you+die.%22;💻+Android+Developer;🧩+Codeforces+Solver+%7C+handle%3A+Nagi_14;🚀+Aspiring+Software+Engineer+%7C+Cairo%2C+Egypt;🔭+Ktor+Backend+Explorer+%7C+Firebase+Enthusiast;⚔️+Survey+Corps+—+Engineering+Division;🌸+Building+Scentra+—+Perfume+E-Commerce+App)](https://git.io/typing-svg)
 
 <br/>
 

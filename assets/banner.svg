@@ -1,8 +1,8 @@
-<svg width="800" height="480" viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="800" height="440" viewBox="0 0 800 440" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
 <style>
 @keyframes tGlow{0%,100%{filter:drop-shadow(0 0 9px rgba(210,170,80,.5));}50%{filter:drop-shadow(0 0 24px rgba(220,180,80,.98)) drop-shadow(0 0 50px rgba(200,120,0,.5));}}
-@keyframes nGlow{0%,100%{fill:#45d4a8;filter:drop-shadow(0 0 7px rgba(69,212,168,.5));}50%{fill:#7af8d0;filter:drop-shadow(0 0 22px rgba(69,212,168,.98)) drop-shadow(0 0 40px rgba(0,255,180,.3));}}
+@keyframes nGlow{0%,100%{fill:#ff6ec7;filter:drop-shadow(0 0 7px rgba(255,110,199,.5));}50%{fill:#ffb3e6;filter:drop-shadow(0 0 22px rgba(255,110,199,.98)) drop-shadow(0 0 40px rgba(230,0,180,.3));}}
 @keyframes twk{0%,100%{opacity:.15;}50%{opacity:1;}}
 @keyframes wPls{0%,100%{opacity:.5;fill:#7a6a48;}50%{opacity:1;fill:#d4a840;}}
 @keyframes aotGlow{0%,100%{filter:drop-shadow(0 0 8px rgba(69,212,168,.4));}50%{filter:drop-shadow(0 0 28px rgba(69,212,168,.98)) drop-shadow(0 0 55px rgba(69,212,168,.3));}}
@@ -211,17 +211,7 @@
 <!-- Main title with gradient fill -->
 <text class="main-title" x="400" y="65" font-family="Georgia,'Times New Roman',serif" font-size="36" font-weight="900" fill="url(#titleGrad)" letter-spacing="5" text-anchor="middle">SHINGEKI NO CODER</text>
 
-<!-- Name row: left wings + name + right wings (mirrored) -->
-<use href="#wings" x="346" y="72" width="36" height="26">
-  <animate attributeName="opacity" values=".8;1;.8" dur="2s" repeatCount="indefinite"/>
-</use>
-<text class="name-text" x="400" y="94" font-family="Georgia,'Times New Roman',serif" font-size="20" font-weight="700" fill="#45d4a8" text-anchor="middle">Omar Nagi</text>
-<!-- Right wing mirrored: translate to (418,72) then scale(-1,1) so it spans (418..454) = mirrored of (346..382) -->
-<g transform="translate(454,72) scale(-1,1)">
-  <use href="#wings" x="0" y="0" width="36" height="26">
-    <animate attributeName="opacity" values=".8;1;.8" dur="2s" begin=".5s" repeatCount="indefinite"/>
-  </use>
-</g>
+<text class="name-text" x="400" y="94" font-family="Georgia,'Times New Roman',serif" font-size="20" font-weight="700" fill="#ff6ec7" text-anchor="middle">Omar Nagi</text>
 
 
 
@@ -417,15 +407,5 @@
   <animate attributeName="opacity" values="0;.4;.4;0" dur="3s" repeatCount="indefinite"/>
 </rect>
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!-- SECTION 5 — FOOTER  (y 440..480)                   -->
-<!-- ═══════════════════════════════════════════════════ -->
-<rect x="0" y="440" width="800" height="40" fill="#010408"/>
-<line x1="0" y1="440" x2="800" y2="440" stroke="#0a1020" stroke-width="1"/>
-<!-- Animated bottom border glow -->
-<rect x="0" y="478" width="800" height="2" fill="#45d4a8" class="border-pulse"/>
-<text x="18" y="464" font-family="Arial,Helvetica,sans-serif" font-size="9.5" fill="#2a3a50" letter-spacing=".6">©2025 Omar Nagi · Dedicate Your Heart.</text>
-<use href="#wings-sm" class="footer-wings" x="384" y="447" width="32" height="22"/>
-<text x="782" y="464" font-family="Arial,Helvetica,sans-serif" font-size="9.5" fill="#2a3a50" letter-spacing=".6" text-anchor="end">Design: Survey Corps Engineering Division</text>
 
 </svg>
