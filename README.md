@@ -4,16 +4,9 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00FFF7&center=true&vCenter=true&width=800&lines=⚔️+%22If+you+win%2C+you+live.+If+you+lose%2C+you+die.%22;💻+Android+Developer+%7C;🧩+Codeforces+Problem+Solver+%7C+handle%3A+Nagi_14;🚀+Aspiring+Software+Engineer+%7C+Cairo%2C+Egypt;🔭+Ktor+Backend+Explorer+%7C+Building+Scentra+🌸;⚔️+Survey+Corps+—+Engineering+Division)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00FFF7&center=true&vCenter=true&width=800&lines=⚔️+%22If+you+win%2C+you+live.+If+you+lose%2C+you+die.%22;💻+Android+Developer+%7C;🧩+Codeforces+Problem+Solver+%7C+handle%3A+Nagi_14;🚀+Aspiring+Software+Engineer+%7C+Cairo%2C+Egypt;🔭+Ktor+Backend+Explorer;⚔️+Survey+Corps+—+Engineering+Division)](https://git.io/typing-svg)
 
-<br/>
 
-![](https://img.shields.io/badge/STATUS-ACTIVE%20DUTY-00fff7?style=for-the-badge&labelColor=0a0a0a)
-![](https://img.shields.io/badge/REGIMENT-SURVEY%20CORPS-8B0000?style=for-the-badge&labelColor=0a0a0a)
-![](https://img.shields.io/badge/BASE-CAIRO%20🇪🇬-b388ff?style=for-the-badge&labelColor=0a0a0a)
-![](https://img.shields.io/badge/MISSION-WALLS%20OF%20CODE-ff6ec7?style=for-the-badge&labelColor=0a0a0a)
-
-<br/>
 
 <!-- Social Profile Icons -->
 <a href="https://www.linkedin.com/in/omar-nagi-263bss/" target="_blank">
