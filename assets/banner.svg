@@ -204,9 +204,7 @@
   </use>
 </g>
 
-<!-- Tagline -->
-<text x="400" y="117" font-family="Arial,Helvetica,sans-serif" font-size="10.5" fill="#9a8a6a" text-anchor="middle">⚔ "If you win, you live. If you lose, you die." &#160;<tspan fill="#c4a850">Android Dev</tspan> | <tspan fill="#c4a850">Flutter</tspan> | <tspan fill="#c4a850">Codeforces</tspan> · Nagi_14</text>
-<text x="400" y="133" font-family="Arial,Helvetica,sans-serif" font-size="10.5" fill="#9a8a6a" text-anchor="middle">Aspiring Software Engineer &#160;|&#160; <tspan fill="#c4a850">Cairo, Egypt</tspan> &#160;|&#160; Ktor Backend Explorer</text>
+
 
 <!-- Wall labels -->
 <rect x="68" y="147" width="52" height="16" fill="none" stroke="#3a2a10" stroke-width="1"/>
@@ -347,44 +345,7 @@
   <text x="86" y="30" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" fill="#d445a0" letter-spacing="2" text-anchor="middle">WALLS OF CODE</text>
 </g>
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!-- SECTION 4 — SOCIAL LINKS  (y 355..410)             -->
-<!-- ═══════════════════════════════════════════════════ -->
-<rect x="0" y="355" width="800" height="55" fill="#02060e"/>
 
-<!-- Links: widths 120,140,120,110, gaps 12, total=502, left=149 -->
-<!-- GitHub -->
-<a href="https://github.com/OmarNagi74">
-  <g transform="translate(149,369)">
-    <rect x="0" y="0" width="120" height="36" fill="rgba(15,25,50,.4)" stroke="#2a3a60" stroke-width="1"/>
-    <line x1="0" y1="0" x2="120" y2="0" stroke="#45d4a8" stroke-width="1.5" opacity=".4"/>
-    <text x="60" y="22" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="600" fill="#a8c0e8" letter-spacing="1" text-anchor="middle">GitHub</text>
-  </g>
-</a>
-<!-- Codeforces -->
-<a href="https://codeforces.com/profile/Nagi_14">
-  <g transform="translate(281,369)">
-    <rect x="0" y="0" width="140" height="36" fill="rgba(15,25,50,.4)" stroke="#2a3a60" stroke-width="1"/>
-    <line x1="0" y1="0" x2="140" y2="0" stroke="#45d4a8" stroke-width="1.5" opacity=".4"/>
-    <text x="70" y="22" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="600" fill="#a8c0e8" letter-spacing="1" text-anchor="middle">Codeforces</text>
-  </g>
-</a>
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/omar-nagi-263bss/">
-  <g transform="translate(433,369)">
-    <rect x="0" y="0" width="120" height="36" fill="rgba(15,25,50,.4)" stroke="#2a3a60" stroke-width="1"/>
-    <line x1="0" y1="0" x2="120" y2="0" stroke="#45d4a8" stroke-width="1.5" opacity=".4"/>
-    <text x="60" y="22" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="600" fill="#a8c0e8" letter-spacing="1" text-anchor="middle">LinkedIn</text>
-  </g>
-</a>
-<!-- Email -->
-<a href="mailto:omarnagi424@gmail.com">
-  <g transform="translate(565,369)">
-    <rect x="0" y="0" width="110" height="36" fill="rgba(15,25,50,.4)" stroke="#2a3a60" stroke-width="1"/>
-    <line x1="0" y1="0" x2="110" y2="0" stroke="#45d4a8" stroke-width="1.5" opacity=".4"/>
-    <text x="55" y="22" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="600" fill="#a8c0e8" letter-spacing="1" text-anchor="middle">Email</text>
-  </g>
-</a>
 
 <!-- ═══════════════════════════════════════════════════ -->
 <!-- SECTION 5 — FOOTER  (y 410..450)                   -->
