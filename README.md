@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1504" height="704" alt="AOT Banner" src="https://github.com/user-attachments/assets/374deb34-9f72-4e7b-9303-9dfc399cdf8a" />
+<img width="860" height="420" alt="Shingeki No Coder — Animated Banner" src="assets/banner.svg" />
 
 <br/>
 
