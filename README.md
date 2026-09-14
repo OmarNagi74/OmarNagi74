@@ -123,12 +123,11 @@
 
 <div align="center">
 
-<img height="180em" src="https://raw.githubusercontent.com/omarnagi74/omarnagi74/master/generated/overview.svg" />
-<img height="180em" src="https://raw.githubusercontent.com/omarnagi74/omarnagi74/master/generated/languages.svg" />
+<img src="https://raw.githubusercontent.com/OmarNagi74/OmarNagi74/output/github-snake.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
-> These stats are generated and stored in this repository automatically every day via GitHub Actions (no external server dependency).
+> This visual is generated and stored in this repository automatically every day via GitHub Actions (no external server dependency).
 
 ---
 
