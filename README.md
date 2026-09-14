@@ -128,11 +128,11 @@
 
 </div>
 
-> الصور دي بتتولد وتتخزن جوه الريبو نفسه أوتوماتيك يوميًا عن طريق GitHub Action (مش معتمدة على سيرفر تاني ممكن يقع).
+> These stats are generated and stored in this repository automatically every day via GitHub Actions (no external server dependency).
 
 ---
 
-## Roadmap 2025
+## Roadmap
 
 | # | Goal | Status |
 |:---:|:---|:---:|
