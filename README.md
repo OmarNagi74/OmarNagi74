@@ -123,22 +123,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarnagi74&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=0A66C2&icon_color=2496ED&text_color=333333&bg_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarnagi74&layout=compact&theme=default&hide_border=true&title_color=0A66C2&text_color=333333&bg_color=ffffff&langs_count=8" />
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=omarnagi74&theme=default&hide_border=true&background=ffffff&ring=0A66C2&fire=2496ED&currStreakLabel=0A66C2)](https://git.io/streak-stats)
-
-<br/>
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=omarnagi74&theme=flat&no-frame=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omarnagi74&theme=minimal&hide_border=true&bg_color=ffffff&color=0A66C2&line=2496ED&point=333333&area=true&area_color=0A66C2)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img height="180em" src="https://raw.githubusercontent.com/omarnagi74/omarnagi74/master/generated/overview.svg" />
+<img height="180em" src="https://raw.githubusercontent.com/omarnagi74/omarnagi74/master/generated/languages.svg" />
 
 </div>
+
+> الصور دي بتتولد وتتخزن جوه الريبو نفسه أوتوماتيك يوميًا عن طريق GitHub Action (مش معتمدة على سيرفر تاني ممكن يقع).
 
 ---
 
