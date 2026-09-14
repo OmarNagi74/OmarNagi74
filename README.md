@@ -1,19 +1,20 @@
 <div align="center">
 
-![⚔️ SHINGEKI NO CODER — ANIMATED BANNER ⚔️](assets/banner.svg)
+# Omar Nagi
+
+### Software Engineer
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00FFF7&center=true&vCenter=true&width=800&lines=⚔️+%22If+you+win%2C+you+live.+If+you+lose%2C+you+die.%22;💻+Android+Developer;🧩+Codeforces+Solver+%7C+handle%3A+Nagi_14;🚀+Aspiring+Software+Engineer+%7C+Cairo%2C+Egypt;🔭+Ktor+Backend+Explorer+%7C+Firebase+Enthusiast;⚔️+Survey+Corps+—+Engineering+Division;🌸+Building+Scentra+—+Perfume+E-Commerce+App)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00A8E8&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Cairo%2C+Egypt;Android+Developer+%7C+Java+%C2%B7+Kotlin+%C2%B7+Flutter;Learning+Backend+Development+with+.NET;Exploring+Docker+%26+Containerization;Competitive+Programmer+%7C+Codeforces%3A+Nagi_14;Building+Scentra+%E2%80%94+Perfume+E-Commerce+App)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Social Profile Icons -->
 <a href="https://www.linkedin.com/in/omar-nagi-263bss/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/omarnagi74" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00fff7" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://codeforces.com/profile/Nagi_14" target="_blank">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
@@ -24,213 +25,138 @@
 
 <br/><br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=omarnagi74&color=00fff7&style=for-the-badge&label=SCOUTS+VISITED)
+![Visitor Count](https://komarev.com/ghpvc/?username=omarnagi74&color=0A66C2&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## ⚔️ SOLDIER DOSSIER — CLASSIFIED
+## About Me
 
-<div align="center">
-
-| 🦅 | SURVEY CORPS — SOLDIER PROFILE |
-|:---:|:---|
-| **SOLDIER ID** | OMAR-NAGI-74 |
-| **FULL NAME** | Omar Nagi Elzhari |
-| **ORIGIN** | Cairo, Egypt 🇪🇬 |
-| **REGIMENT** | Survey Corps — Engineering Division |
-| **RANK** | Scout → Corporal *(leveling up...)* |
-| **PRIMARY** | Java · Dart · Kotlin |
-| **SECONDARY** | C++ *(for Titans — hard problems)* |
-| **ARSENAL** | Flutter · Android SDK · Ktor · Firebase |
-| **ACTIVE MISSION** | 🌸 Scentra — Perfume E-Commerce App (Flutter) |
-| **ULTIMATE GOAL** | 🎯 Break through the walls → become a Software Engineer |
-
-> *"Every problem has a solution. Find it. Code it. Ship it. Even if I must do it alone."* — **Omar Nagi**
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 COMBAT STATS — SKILL TREE
-
-<div align="center">
-
-| Skill | Level | Progress |
-|:---|:---:|:---:|
-| Android Dev | ★★★★☆ | `██████████████████░░` 90% |
-| Flutter | ★★★★☆ | `████████████████░░░░` 80% |
-| Java | ★★★★☆ | `██████████████████░░` 90% |
-| Kotlin | ★★★☆☆ | `██████████████░░░░░░` 70% |
-| Algorithms | ★★★★☆ | `████████████████░░░░` 80% |
-| Data Structures | ★★★☆☆ | `███████████████░░░░░` 75% |
-| Ktor Backend | ★★★☆☆ | `████████████░░░░░░░░` 60% |
-| System Design | ★★☆☆☆ | `████████░░░░░░░░░░░░` 40% |
-
-### 🔥 CURRENTLY LOCKING IN
-
-![System Design](https://img.shields.io/badge/System_Design-GRINDING-ff6ec7?style=for-the-badge&labelColor=0a0a0a&logo=bookstack&logoColor=ff6ec7)
-![Open Source](https://img.shields.io/badge/Open_Source-INCOMING-00fff7?style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=00fff7)
-![Codeforces_1400](https://img.shields.io/badge/CF_Rating-1400%2B_TARGET-b388ff?style=for-the-badge&labelColor=0a0a0a&logo=codeforces&logoColor=b388ff)
-![Scentra](https://img.shields.io/badge/Scentra_App-IN_DEV-ffbd2e?style=for-the-badge&labelColor=0a0a0a&logo=flutter&logoColor=ffbd2e)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆 ACHIEVEMENTS UNLOCKED
-
-<div align="center">
-
-| Status | Achievement |
-|:---:|:---|
-| ✅ | 🥇 Built **Scentra** — a full Flutter E-Commerce app |
-| ✅ | 🧩 Active Codeforces solver — handle: **Nagi_14** |
-| ✅ | 📱 Shipped multiple Android apps in Java & Kotlin |
-| ✅ | 🔭 Explored Ktor for backend development |
-| ✅ | 🛡️ Mastered Android SDK fundamentals |
-| 🔄 | 🚀 Targeting Software Engineering role |
-| 🔄 | 📖 Deep diving into System Design |
-| 🔄 | ⚔️ Codeforces rating 1400+ incoming... |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## ❤️ BEYOND THE WALLS — PERSONAL
-
-<div align="center">
-
-> *Like Levi, I operate with precision and zero tolerance for messy code. Like Eren, I push beyond limits.*
-
-| ❤️ Passions | 🧠 How I Think |
+| | |
 |:---|:---|
-| 🎮 Gaming — strategy & RPG games | → Break every problem into sub-problems |
-| 📺 Anime — AOT is life, no debate | → Research first, code second, ship always |
-| 🧩 Competitive programming — my ODM gear | → Clean architecture > fast & messy |
-| 📱 Building apps that feel alive | → If it compiles first try — I don't trust it |
+| 📍 **Location** | Cairo, Egypt |
+| 💼 **Role** | Software Engineer — Android Developer |
+| 🎯 **Currently Learning** | Backend Development with **.NET**, **Docker** & Containerization |
+| 🧩 **Competitive Programming** | Codeforces handle: **Nagi_14** |
+| 🚀 **Active Project** | Scentra — Perfume E-Commerce App (Flutter) |
+| 🎓 **Goal** | Growing into a well-rounded Software Engineer across mobile and backend development |
 
-</div>
+> *Clean code, clear thinking, steady progress.*
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 🧩 TITAN SLAYING — COMPETITIVE PROGRAMMING
-
-<div align="center">
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-Nagi__14-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Nagi_14)
-
-| Division | Progress | Status |
-|:---|:---:|:---:|
-| Div. 4 | `████████████████████` 100% | ✅ CLEARED |
-| Div. 3 | `████████████████░░░░` 80% | ⚔️ ACTIVE |
-| Div. 2 | `████████░░░░░░░░░░░░` 40% | 🔥 GRINDING |
-| Div. 1 | `██░░░░░░░░░░░░░░░░░░` 10% | 👀 ONE DAY... |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## ⚙️ TECH STACK — EQUIPMENT LOADOUT
+## Skills
 
 <div align="center">
 
-### 〔 MOBILE — PRIMARY WEAPONS 〕
+| Skill | Level |
+|:---|:---:|
+| Android Development | `██████████████████░░` 90% |
+| Java | `██████████████████░░` 90% |
+| Flutter | `████████████████░░░░` 80% |
+| Algorithms | `████████████████░░░░` 80% |
+| Data Structures | `███████████████░░░░░` 75% |
+| Kotlin | `██████████████░░░░░░` 70% |
+| Ktor (Backend) | `████████████░░░░░░░░` 60% |
+| System Design | `████████░░░░░░░░░░░░` 40% |
+| .NET (Backend) | `██████░░░░░░░░░░░░░░` 30% *(learning)* |
+| Docker | `██████░░░░░░░░░░░░░░` 30% *(learning)* |
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=00fff7)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=00fff7)](https://dart.dev)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=0a0a0a)](https://developer.android.com)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=0a0a0a)](https://www.java.com)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff)](https://kotlinlang.org)
+### Currently Focused On
 
-### 〔 BACKEND — SUPPORT GEAR 〕
-
-[![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=for-the-badge&logo=kotlin&logoColor=fff)](https://ktor.io)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=0a0a0a)](https://firebase.google.com)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)](https://www.mysql.com)
-[![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)](https://www.postman.com)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com)
-
-### 〔 BASE CAMP — DEV ENVIRONMENT 〕
-
-[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=0a0a0a)](https://developer.android.com/studio)
-[![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=00fff7)](https://www.jetbrains.com/clion)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=b388ff)](https://www.jetbrains.com/idea)
+![.NET](https://img.shields.io/badge/.NET-STUDYING-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-STUDYING-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-GRINDING-0A66C2?style=for-the-badge&logo=bookstack&logoColor=white)
+![Codeforces](https://img.shields.io/badge/CF_Rating-1400%2B_TARGET-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 📊 EXPEDITION RECORDS — GITHUB STATS
+## Tech Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarnagi74&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&title_color=00fff7&icon_color=b388ff&text_color=ffffff&bg_color=0a0a0a&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarnagi74&layout=compact&theme=midnight-purple&hide_border=true&title_color=00fff7&text_color=ffffff&bg_color=0a0a0a&langs_count=8" />
+### Mobile
+
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+
+### Backend & Infrastructure
+
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://ktor.io)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+
+### Tools
+
+[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea)
+
+</div>
+
+---
+
+## Achievements
+
+- 🥇 Built **Scentra** — a full Flutter e-commerce app
+- 🧩 Active Codeforces solver — handle: **Nagi_14**
+- 📱 Shipped multiple Android apps in Java & Kotlin
+- 🔭 Explored Ktor for backend development
+- 🛡️ Solid grasp of Android SDK fundamentals
+- 🔄 Currently learning **.NET** and **Docker** to round out backend skills
+- 🔄 Deepening knowledge of **System Design**
+- 🔄 Working toward a Codeforces rating of 1400+
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarnagi74&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=0A66C2&icon_color=2496ED&text_color=333333&bg_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarnagi74&layout=compact&theme=default&hide_border=true&title_color=0A66C2&text_color=333333&bg_color=ffffff&langs_count=8" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=omarnagi74&theme=midnight-purple&hide_border=true&background=0a0a0a&ring=00fff7&fire=ff6ec7&currStreakLabel=b388ff&dates=ffffff&sideLabels=b388ff&sideNums=00fff7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=omarnagi74&theme=default&hide_border=true&background=ffffff&ring=0A66C2&fire=2496ED&currStreakLabel=0A66C2)](https://git.io/streak-stats)
 
 <br/>
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=omarnagi74&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=omarnagi74&theme=flat&no-frame=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omarnagi74&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=00fff7&line=b388ff&point=ff6ec7&area=true&area_color=b388ff&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omarnagi74&theme=minimal&hide_border=true&bg_color=ffffff&color=0A66C2&line=2496ED&point=333333&area=true&area_color=0A66C2)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 🐍 CONTRIBUTION SERPENT — THE SNAKE EATS MY COMMITS
+## Roadmap 2025
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmarNagi74/OmarNagi74/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmarNagi74/OmarNagi74/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/OmarNagi74/OmarNagi74/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🎯 OPERATION 2025 — MISSION BOARD
-
-<div align="center">
-
-| # | Mission | Status |
+| # | Goal | Status |
 |:---:|:---|:---:|
-| 1 | ⚔️ Dedicate heart → land a Software Engineering role | 🔄 |
-| 2 | 📦 Deploy Scentra to Play Store | 🔄 |
-| 3 | 🧩 Crush Codeforces rating 1400+ | 🔄 |
-| 4 | 🔧 Build production-grade Ktor backend | 🔄 |
-| 5 | 📖 Master System Design — crack the walls | 🔄 |
-| 6 | 🌍 Contribute to Open Source projects | 🔄 |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+| 1 | Land a Software Engineering role | 🔄 |
+| 2 | Deploy Scentra to the Play Store | 🔄 |
+| 3 | Reach Codeforces rating 1400+ | 🔄 |
+| 4 | Build a production-grade backend with .NET & Docker | 🔄 |
+| 5 | Master System Design fundamentals | 🔄 |
+| 6 | Contribute to open source projects | 🔄 |
 
 <div align="center">
 
-> ⚔️ *"If you win, you live. If you lose, you die.*
-> *If you don't fight, you can't win."* — **Eren Yeager**
->
-> *...so I keep coding. Every single day.* ⚔️
-
 <br/>
 
-<img src="https://raw.githubusercontent.com/msharratt1/msharratt1/master/scout-regiment.gif" width="120px" />
-
-<br/>
-
-**⚔️ SHINZOU WO SASAGEYO! ⚔️**
-
-<br/>
+**Thanks for visiting my profile!**
 
 </div>
